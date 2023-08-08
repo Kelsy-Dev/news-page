@@ -140,6 +140,9 @@ hr {
 
 
 @media screen and (min-width: 769px) {
+    .navbar {
+        display: none;
+    }
     .menu {
         display: none;
     }
